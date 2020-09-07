@@ -60,7 +60,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** Responsive page
 
-**Je opdracht:** Travel with me
+**Je opdracht:** https://jillvandooren.nl
 
 **Screenshot(s):**
 
