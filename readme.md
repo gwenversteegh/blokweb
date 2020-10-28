@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** Gwen Versteegh
+**Auteur:** -jouw naam-
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
@@ -38,7 +38,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
-De opdrachten die we moesten maken gingen tot nu toe eigenlijk best wel goed, als ik er niet uitkwam ging ik net zo lang door tot het wel lukte. Wat minder goed ging was mijn planning. Mede door persoonlijke omstandigheden, maar ook omdat ik soms gewoon chaotisch ben, liep ik al vrij snel een beetje achter. Gelukkig heb ik dit wel weten in te halen.
+-dit ging goed & dit was lastig-
+
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent-
@@ -55,14 +56,15 @@ De opdrachten die we moesten maken gingen tot nu toe eigenlijk best wel goed, al
 
 ## Intake (week 1)
 
-**Je startniveau:** blauw/rood
+**Je startniveau:** -kies uit zwart, rood óf blauw-
 
-**Je focus:** -responsive
+**Je focus:** -kies uit responsive óf surface plane-
 
-**Je opdracht:** https://jillvandooren.nl
+**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
 **Screenshot(s):**
 
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
 
 **Breakdown-schets(en):**
 
